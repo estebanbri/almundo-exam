@@ -1,7 +1,7 @@
-package com.domain;
+package com;
 
-import com.domain.empleado.Empleado;
-import com.domain.empleado.TipoEmpleado;
+import com.empleado.Empleado;
+import com.empleado.TipoEmpleado;
 import org.junit.Before;
 import org.junit.Test;
 
